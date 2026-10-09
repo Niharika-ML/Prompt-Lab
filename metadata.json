@@ -1,0 +1,6 @@
+{
+  "name": "PromptLab",
+  "description": "Interactive educational platform to learn prompt writing through practical challenges, instant AI output, feedback analysis, and comparisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
